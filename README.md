@@ -100,6 +100,7 @@
 ![메인화면](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/0ddcda8a-0ef1-4289-b085-092666c0151b)
 ![검색화면_hoonscucci](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/bbec2f8c-5347-43e6-8863-63524dfb58b7)
 ![검색화면_타비잭스_티어볼수있음](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/9e2158ba-f7b2-4c3f-afb3-8334c7a75d8e)
+![존재하지 않는 계정](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/1810e5d2-9b04-4d6e-8a80-60b0e65d657d)
 
 ---
 
