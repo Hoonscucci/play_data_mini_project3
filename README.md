@@ -1,6 +1,36 @@
 # PLAY_DATA_MINI_PROJECT3
 
+<h2>기여자 (Contributors) ✨</h2>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Hoonscucci">
+        <img src="https://avatars.githubusercontent.com/u/132039559?v=4"width="145px;" alt=""/>
+        <br />
+        <sub>
+          <b>이상훈</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/Hoonscucci" title="Code">🏠</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/chan9511">
+        <img src=https://avatars.githubusercontent.com/u/131934006?v=4"width="100px;" alt=""/>
+        <br />
+        <sub>
+          <b>김찬동</b>
+        </sub>
+      </a>
+      <br />
+      <a href="https://github.com/chan9511" title="Code">🏠</a>
+    </td>
+  </tr>
+</table>
+
 ## 리그오브 레전드 계정 검색 시스템
+![메인화면](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/0ddcda8a-0ef1-4289-b085-092666c0151b)
+
 
 ### 주제 탐색
 ##### 1. 리그오브 레전드 소환사 전적 그래프, 소환사 정보, 게임정보, 전적 로그 한눈에 보기
@@ -22,6 +52,7 @@
 
 
 ### 사용 라이엇 API 정리
+![라이엇 api 홈페이지](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/a11b707b-9172-45d6-be3a-3986c077332c)
 ##### 1. SUMMONER-V4 - username 으로 검색하여 나오는 id와 puuid를 사용하여 다른 테이블에 사용
 > 필요 검색 키워드 - username
 > 
@@ -51,8 +82,20 @@
 > 그중 우리가 검색하려는 계정의 정보만 추출 하여 사용하는 코드를 작성
 
 
-일자별 진행 예정
 
-날짜별 to do list
+![일자별 진행플로우](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/6a4b9d55-d323-432b-9976-8c84058cda92)
 
-페이지가 변경되며 보여지는 부분 빼고는 표현할 부분들은 표현이 된것 같다.
+
+![8-9 todo](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/ad71c4ab-2045-4199-b95f-43a7b0f95d8e)
+![8-10 todo](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/e9795e34-a183-46e1-bf8c-7a369b127a63)
+![8-11 todo](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/326ea2b3-7643-45e3-80af-3899d8189cbb)
+---
+
+### 최종 결과
+
+![메인화면](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/0ddcda8a-0ef1-4289-b085-092666c0151b)
+![검색화면_hoonscucci](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/bbec2f8c-5347-43e6-8863-63524dfb58b7)
+![검색화면_타비잭스_티어볼수있음](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/9e2158ba-f7b2-4c3f-afb3-8334c7a75d8e)
+
+---
+
