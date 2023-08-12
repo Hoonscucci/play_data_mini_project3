@@ -1,5 +1,6 @@
 # PLAY_DATA_MINI_PROJECT3
 
+
 <h2>기여자 (Contributors) ✨</h2>
 <table align="center">
   <tr>
