@@ -81,6 +81,10 @@
 >
 > 그중 우리가 검색하려는 계정의 정보만 추출 하여 사용하는 코드를 작성
 
+##### 4. 챔피언 이미지 불러오기 
+> 라이엇 API에는 챔피언 이미지가 없어서 따로 이미지 맵핑을 시켜서 반환했다.
+>  >  https://ddragon.leagueoflegends.com/cdn/13.15.1/img/champion/(이부분에 챔피언명.PNG를 입력)
+>  >  해당코드로 검색결과 플레이한 챔프명을 받아 이미지를 동시에 띄울수 있게 하였다.
 
 
 ![일자별 진행플로우](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/6a4b9d55-d323-432b-9976-8c84058cda92)
