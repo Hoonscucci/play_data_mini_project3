@@ -29,6 +29,7 @@
 </table>
 
 ## 리그오브 레전드 계정 검색 시스템
+### 그래서 님 티어가?
 ![메인화면](https://github.com/Hoonscucci/play_data_mini_project3/assets/132039559/0ddcda8a-0ef1-4289-b085-092666c0151b)
 
 
