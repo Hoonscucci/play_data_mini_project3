@@ -10,7 +10,7 @@ function App() {
   const [result3, setResult3] = useState("");
   const [isData, setIsData] = useState(false);
   const [userMatch, setUserMatch] = useState([]);
-  const API_KEY = "RGAPI-a548bfbc-f389-44d0-aee1-503bf1371902";
+  const API_KEY = "RGAPI-242fc4fa-618f-4252-97c5-f7b13f486c76";
 
   async function searchForPlayer() {
     var APIcallString =
